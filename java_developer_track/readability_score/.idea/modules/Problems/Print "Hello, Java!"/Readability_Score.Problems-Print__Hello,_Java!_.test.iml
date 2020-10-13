@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/Print &quot;Hello, Java!&quot;/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Print &quot;Hello, Java!&quot;.Readability_Score.Problems-Print__Hello,_Java!_.main" />
+    <orderEntry type="module" module-name="Readability_Score.Problems-Print__Hello,_Java!_.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
