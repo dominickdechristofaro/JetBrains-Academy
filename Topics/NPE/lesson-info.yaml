@@ -1,0 +1,5 @@
+content:
+- Theory
+- When NPE cannot occur
+- Code that throws an exception
+- Return empty string when argument is null
