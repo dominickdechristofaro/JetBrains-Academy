@@ -1,3 +1,0 @@
-ReadabilityTest.java
- ReadabilityTest
- TestClue

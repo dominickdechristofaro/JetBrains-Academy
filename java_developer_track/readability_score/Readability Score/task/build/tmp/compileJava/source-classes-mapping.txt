@@ -1,2 +1,0 @@
-readability/Main.java
- readability.Main

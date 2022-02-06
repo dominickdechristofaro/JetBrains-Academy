@@ -5,7 +5,11 @@ public class Main {
 
     /* Fix this method */
     public static String toUpperCase(String str) {
-        return str.toUpperCase(Locale.ENGLISH);
+        if (str == null) {
+            return "";
+        } else {
+            return str.toUpperCase(Locale.ENGLISH);
+        }
     }
 
     /* Do not change code below */

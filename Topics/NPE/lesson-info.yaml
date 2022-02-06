@@ -3,3 +3,10 @@ content:
 - When NPE cannot occur
 - Code that throws an exception
 - Return empty string when argument is null
+- Where NPE might occur
+- Unknown input
+- Avoid NPE with strings
+- Find NPE
+- Lines that may throw NPE
+- Where NPE may occur
+- Avoid NPE

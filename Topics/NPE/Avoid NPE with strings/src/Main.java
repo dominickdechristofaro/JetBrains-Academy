@@ -5,8 +5,15 @@ public class Main {
 
     public static String concatStrings(String str1, String str2) {
         /* write your code here */
-
-        return str1.concat(str2);
+        if (str1 == null && str2 == null) {
+            return "";
+        } else if (str1 == null) {
+            return str2;
+        } else if (str2 == null) {
+            return str1;
+        } else {
+            return str1.concat(str2);
+        }
     }
 
     /* Do not change code below */

@@ -7,7 +7,10 @@ class FixingNullPointerException {
         String string = scanner.nextLine();
         string = "null".equals(string) ? null : string;
         /* Do not change code above */
-
-        System.out.println(string.toLowerCase());
+        if (string != null) {
+            System.out.println(string.toLowerCase());
+        } else {
+            System.out.println("NPE!");
+        }
     }
 }
