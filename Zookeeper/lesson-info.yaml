@@ -1,0 +1,8 @@
+type: framework
+custom_name: Zookeeper
+content:
+- Rush into print
+- Show me an animal
+- What's inside
+- Sustainable care  3
+current_task: 3
